@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EMELY_APRAEZ_CSHARP_2025/1.0.0": {
+        "runtime": {
+          "EMELY_APRAEZ_CSHARP_2025.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EMELY_APRAEZ_CSHARP_2025/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
